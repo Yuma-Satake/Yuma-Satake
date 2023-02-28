@@ -12,7 +12,7 @@
 </br>
 
 <p>
-  <h2>関西ビギナーズハッカソン最優秀作品🥇</h2>
+  <h2 align="center">関西ビギナーズハッカソン最優秀作品🥇</h2>
   <img width="300px" src="https://user-images.githubusercontent.com/109256327/221911328-f86d7256-b44b-4a06-9d1e-26627e6b2990.jpeg">
   <h4><a href="https://github.com/Yuma-Satake/kansaiHackTeamNIBUNOITI">リポジトリを見る→</a></h4>
 </p>
@@ -24,7 +24,7 @@
 </br>
 
 <p>
-  <h2>技育CAMP入賞作品🥉</h2>
+  <h2 align="center">技育CAMP入賞作品🥉</h2>
   <img width="150px" src="https://user-images.githubusercontent.com/109256327/221911731-2722ec98-e551-4e29-8f78-5eea798c3334.jpeg">
   <h4>
    <a href="https://github.com/geekcamp-vol11-team30/frontend">リポジトリを見る→</a>
@@ -37,7 +37,7 @@
 </br>
 
 <p>
-  <h2>技育CAMP入賞作品🥉</h2>
+  <h2 align="center">技育CAMP入賞作品🥉</h2>
   <img width="300px" src="https://user-images.githubusercontent.com/109256327/221913092-f93090a1-eb8e-46dd-bd88-60127f6e5f61.jpeg">
   <h4>
    <a href="https://github.com/Yuma-Satake/DrowAndDrop">リポジトリを見る→</a>
