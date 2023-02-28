@@ -6,12 +6,17 @@
 </div>
 
 <h1 align="center">
-Welcome to MyGithub 🙌
+ Welcome to MyGithub 🙌
 </h1>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/yuma_satake22?style=social)
+
+</br>
+
 <p>
-  <h3>関西ビギナーズハッカソン最優秀🥇</h3>
-  <a href="https://github.com/Yuma-Satake/kansaiHackTeamNIBUNOITI">リポジトリを見る→</a>
+  <h2>関西ビギナーズハッカソン最優秀作品🥇</h2>
+  <img width="300px" src="https://user-images.githubusercontent.com/109256327/221911328-f86d7256-b44b-4a06-9d1e-26627e6b2990.jpeg">
+  <h4><a href="https://github.com/Yuma-Satake/kansaiHackTeamNIBUNOITI">リポジトリを見る→</a></h4>
 </p>
 <li>プロダクト名：Macha</li>
 <li>概要：メールをチャット化し企業のメールにかかる業務負担を効率化する</li>
@@ -21,8 +26,11 @@ Welcome to MyGithub 🙌
 </br>
 
 <p>
-  <h3>技育CAMP入賞作品🥉</h3>
-  <a href="https://github.com/geekcamp-vol11-team30/frontend">リポジトリを見る→</a>
+  <h2>技育CAMP入賞作品🥉</h2>
+  <img width="150px" src="https://user-images.githubusercontent.com/109256327/221911731-2722ec98-e551-4e29-8f78-5eea798c3334.jpeg">
+  <h4>
+   <a href="https://github.com/geekcamp-vol11-team30/frontend">リポジトリを見る→</a>
+  </h4>
 </p>
 <li>プロダクト名：Magi-Sche</li>
 <li>概要：スマホユーザの日程調整のしずらさをアプリ内カレンダーで解決する</li>
@@ -31,13 +39,17 @@ Welcome to MyGithub 🙌
 </br>
 
 <p>
-  <h3>技育CAMP入賞作品🥉</h3>
-  <a href="https://github.com/Yuma-Satake/DrowAndDrop">リポジトリを見る→</a>
+  <h2>技育CAMP入賞作品🥉</h2>
+  <img width="300px" src="https://user-images.githubusercontent.com/109256327/221913092-f93090a1-eb8e-46dd-bd88-60127f6e5f61.jpeg">
+  <h4>
+   <a href="https://github.com/Yuma-Satake/DrowAndDrop">リポジトリを見る→</a>
+  </h4>
 </p>
 <li>プロダクト名：DrowAndDrop</li>
 <li>概要：技育CAMPの禁忌を犯すための壺作りゲーム</li>
 <li>Hosting管理・ランキングボード機能実装を担当しました</li>
 
+</br>
 </br>
 
 <h1 align="center">learning languages and tools 🛠</h1>
