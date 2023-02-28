@@ -1,5 +1,5 @@
 <div>
- <p align="right">
+ <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Yuma-Satake" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuma-Satake">
  </p>
@@ -8,8 +8,6 @@
 <h1 align="center">
  Welcome to MyGithub 🙌
 </h1>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/yuma_satake22?style=social)
 
 </br>
 
