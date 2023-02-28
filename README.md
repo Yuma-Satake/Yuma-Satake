@@ -81,6 +81,7 @@
     <td><img width="50px" src="https://user-images.githubusercontent.com/109256327/221891191-2913a5e3-0d32-468f-a247-67ffdac88879.png"></td>
     <td><img width="50px" src="https://user-images.githubusercontent.com/109256327/221892009-47995355-5763-4805-87b7-3abf9c6966cd.png"></td>
     <td><img width="50px" src="https://user-images.githubusercontent.com/109256327/221896169-a359d7f5-8fa0-49a7-968a-eae60c962a0c.png"></td>
+    <td><img width="50px" src="https://user-images.githubusercontent.com/109256327/221919509-d31b8419-2f5e-495d-bcfd-79025aebdbda.jpeg"></td>
   </tr>
 </table>
 
