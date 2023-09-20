@@ -12,7 +12,7 @@
 </br>
 
 <p>
-  <h2 align="center">技育CAMPアドバンス大賞作品🥇</h2>
+  <h2 align="center">技育CAMPアドバンス大賞🏆</h2>
   <img width="300px" src="https://user-images.githubusercontent.com/109256327/224042586-02c0fde6-703d-497c-82c1-d7186b073722.png">
   <h4>
    <a href="https://github.com/geekcamp-vol11-team30/frontend">リポジトリを見る→</a>
@@ -25,7 +25,20 @@
 </br>
 
 <p>
-  <h2 align="center">関西ビギナーズハッカソン最優秀作品🥇</h2>
+  <h2 align="center">名古屋 Web3ハッカソン4冠🏆</h2>
+  <img width="300px" src="https://github.com/Yuma-Satake/Yuma-Satake/assets/109256327/173a876c-05fa-49ea-ae69-40c99c538a2f">
+  <h4>
+   <a href="https://github.com/calloc134/LexiNet">リポジトリを見る→</a>
+  </h4>
+</p>
+<li>プロダクト名：LexiNet</li>
+<li>概要：ChatGPTの様なLLMを分散処理する基盤の構築</li>
+<li>UIデザイン・UI実装・Biz周りを中心に携わりました</li>
+
+</br>
+
+<p>
+  <h2 align="center">関西ビギナーズハッカソン最優秀🏆</h2>
   <img width="300px" src="https://user-images.githubusercontent.com/109256327/221911328-f86d7256-b44b-4a06-9d1e-26627e6b2990.jpeg">
   <h4><a href="https://github.com/Yuma-Satake/kansaiHackTeamNIBUNOITI">リポジトリを見る→</a></h4>
 </p>
@@ -33,19 +46,6 @@
 <li>概要：メールをチャット化し企業のメールにかかる業務負担を効率化する</li>
 <li>チームのテックリードとして参加しました</li>
 <li>Firebase/GCP管理・フロント全体の実装を担当しました</li>
-
-</br>
-
-<p>
-  <h2 align="center">技育CAMP入賞作品🥉</h2>
-  <img width="300px" src="https://user-images.githubusercontent.com/109256327/221913092-f93090a1-eb8e-46dd-bd88-60127f6e5f61.jpeg">
-  <h4>
-   <a href="https://github.com/Yuma-Satake/DrowAndDrop">リポジトリを見る→</a>
-  </h4>
-</p>
-<li>プロダクト名：DrowAndDrop</li>
-<li>概要：技育CAMPの禁忌を犯すための壺作りゲーム</li>
-<li>Hosting管理・ランキングボード機能実装を担当しました</li>
 
 </br>
 </br>
