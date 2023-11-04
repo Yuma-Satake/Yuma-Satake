@@ -1,9 +1,5 @@
-<div align="center">
- <img alt="愛は地球を救う 24hテレビ" src="https://typograssy.deno.dev/api?text=I%20love%20SDGs%20and%20LGBTQs++&l0=ff2600&l1=ff9300&l2=fffb00&l3=00f900&l4=00fdff&bg=0433ff&frame=ff40ff&speed=1000">
-</div>
-
 <div>
- <p align="center"> 
+ <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Yuma-Satake" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuma-Satake">
  </p>
