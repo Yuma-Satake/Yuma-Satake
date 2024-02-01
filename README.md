@@ -13,7 +13,7 @@
 
 <p>
   <h2 align="center">技育CAMPアドバンス大賞🏆</h2>
-  <img width="300px" src="https://user-images.githubusercontent.com/109256327/224042586-02c0fde6-703d-497c-82c1-d7186b073722.png">
+  <img width="300px" src="https://github.com/Yuma-Satake/Yuma-Satake/assets/109256327/e04c1bf2-323e-4354-9190-f16014328e47">
   <h4>
    <a href="https://github.com/geekcamp-vol11-team30/frontend">リポジトリを見る→</a>
   </h4>
