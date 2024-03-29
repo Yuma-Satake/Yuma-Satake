@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
- Welcome to MyGithub 🙌
+ Welcome to MyGithub 👋
 </h1>
 
 </br>
