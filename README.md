@@ -90,8 +90,3 @@
     <td><img width="50px" src="https://user-images.githubusercontent.com/109256327/221899810-12fa83e3-f930-4aa9-ad10-b638147866e0.png"></td>
   </tr>
 </table>
-
-<h1 align="center">Activity 🏃💨</h1>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuma-Satake&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats?username=anuraghazra&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Satake&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
