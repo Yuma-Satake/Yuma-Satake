@@ -9,5 +9,5 @@
 </h1>
 
 <p align="center">
- Portfolio: <a href="https://yuma-satake.github.io/">https://yuma-satake.github.io/</a>
+ Portfolio: <a href="https://yuma-satake.github.io/">https://yuma-satake.com/</a>
 </p>
